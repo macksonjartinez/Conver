@@ -1,0 +1,34 @@
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\bin\Debug\net6.0-windows\Conver.exe
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\bin\Debug\net6.0-windows\Conver.deps.json
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\bin\Debug\net6.0-windows\Conver.runtimeconfig.json
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\bin\Debug\net6.0-windows\Conver.dll
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\bin\Debug\net6.0-windows\Conver.pdb
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.csproj.AssemblyReference.cache
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.csproj.GenerateResource.cache
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.AssemblyInfoInputs.cache
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.AssemblyInfo.cs
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.csproj.CoreCompileInputs.cache
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.dll
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\refint\Conver.dll
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.pdb
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.genruntimeconfig.cache
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\ref\Conver.dll
+C:\Users\prodi\Desktop\varios\Intec\Desarrollo Soft II\2023-1\Conver\Conver\obj\Debug\net6.0-windows\Conver.Conver.resources
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\bin\Debug\net6.0-windows\Conver.exe
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\bin\Debug\net6.0-windows\Conver.deps.json
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\bin\Debug\net6.0-windows\Conver.runtimeconfig.json
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\bin\Debug\net6.0-windows\Conver.dll
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\bin\Debug\net6.0-windows\Conver.pdb
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.Conver.resources
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.csproj.GenerateResource.cache
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.AssemblyInfoInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.AssemblyInfo.cs
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.dll
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\refint\Conver.dll
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.pdb
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\Conver.genruntimeconfig.cache
+C:\Users\gerso\OneDrive\Escritorio\Conver\Conver\obj\Debug\net6.0-windows\ref\Conver.dll
